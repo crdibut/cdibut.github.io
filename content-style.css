@@ -1,0 +1,45 @@
+
+/* =============================================================================
+   Links
+   ========================================================================== */
+a: { color: #000; }
+a:visited { color: #545252; }
+a:hover { color: #000; }
+a:focus { outline: thin dotted; }
+
+h1 {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size:37px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:300;
+	line-height:39.4px;
+    color: #000;
+}
+h2 {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size:32px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:400;
+    color:#057c7c;
+    line-height:34.4px;
+}
+h3 {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size:27px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:400;
+    color:#057c7c;
+    line-height:29.4px;
+}
+p {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size:17px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:400;
+	line-height:19.4px;
+    color:#000;
+}
